@@ -45,8 +45,8 @@ public class ManagerScriptSupermart : MonoBehaviour
     void PopulateView()
     {
         int startAt = 0;
-        string[] category = { "PET", "Can", "Carton" };
-        for (int j = 0; j < 3; j++)
+        string[] category = { "PET", "Soda", "Can", "Carton" };
+        for (int j = 0; j < 4; j++)
         {
             GameObject banner = Instantiate(bannerPrefab, container.transform);
 

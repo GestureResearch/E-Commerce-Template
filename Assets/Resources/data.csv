@@ -10,7 +10,7 @@ PID,Drink Name and Description,Quantity,Packaging Type,MRP,Offer Price(BigBasket
 16724,Sprite (Bottle) - Soft Drink,1.25 lt,PET,55,52.3,49.6,Yes,52.8,48.6,55
 10563,Thums Up (Bottle) - Soft Drink,1.25 lt,PET,55,52.3,49.6,Yes,52.8,48.6,55
 9483,Limca Soft Drink (Bottle),750 ml,PET,37,35.2,33.4,Yes,35.5,32.7,37
-35524,Kinley Club (Bottle) - Soda,1.25 lt,PET,30,28.5,27.1,Yes,28.8,26.5,30
+35524,Kinley Club (Bottle) - Soda,1.25 lt,Soda,30,28.5,27.1,Yes,28.8,26.5,30
 298,Maaza (Bottle) - Fruit Drink,600 ml,PET,37,35.2,33.4,Yes,35.5,32.7,37
 15286,Coca-Cola Zero (Can) - Soft Drink,300 ml,Can,35,33.3,31.6,Yes,33.6,30.9,35
 35370,Coca-Cola Zero (Bottle) - Soft Drink,600 ml,PET,35,33.3,31.6,Yes,33.6,30.9,35
@@ -38,7 +38,7 @@ PID,Drink Name and Description,Quantity,Packaging Type,MRP,Offer Price(BigBasket
 19578,Maaza (Bottle) - Fruit Drink,1.5 lt,PET,70,66.5,63.2,Yes,67.2,61.8,70
 86521,Fanta (Bottle) - Soft Drink,750 ml,PET,40,38,36.1,Yes,38.4,35.3,40
 28177,Minute Maid Mango - Fruit Drink,400 ml,PET,25,23.8,22.6,Yes,24,22.1,25
-309,Schweppes Original Soda Water,300 ml,Can,40,38,36.1,Yes,38.4,35.3,40
+309,Schweppes Original Soda Water,300 ml,Soda,40,38,36.1,Yes,38.4,35.3,40
 227888,Sprite Zero (Can) - Soft Drink,330 ml,Can,35,33.3,31.6,Yes,33.6,30.9,35
 280824,Coca-Cola (Can) - Soft Drink,6x330 ml,Can,175,166.3,157.9,Yes,168,154.6,175
 17678,Coca-Cola (Can) - Soft Drink,300 ml,Can,30,28.5,27.1,Yes,28.8,26.5,30
@@ -48,7 +48,7 @@ PID,Drink Name and Description,Quantity,Packaging Type,MRP,Offer Price(BigBasket
 10559,Limca (Bottle) - Soft Drink,2 lt,PET,80,76,72.2,Yes,76.8,70.7,80
 18319,Limca (Bottle) - Soft Drink,1.25 lt,PET,58,55.1,52.3,Yes,55.7,51.2,58
 15288,Coca-Cola Coke Diet (Can) - Soft Drink,300 ml,Can,35,,11.4,Yes,11.5,10.6,12
-136920,Kinley Soda (Bottle),600 ml,PET,15,,94.1,Yes,95,87.4,99
+136920,Kinley Soda (Bottle),600 ml,Soda,15,,94.1,Yes,95,87.4,99
 97250,Maaza (Bottle) - Fruit Drink,1.2 lt,PET,68,,28.5,Yes,28.8,26.5,30
 315,Thums Up (Can) - Soft Drink,300 ml,Can,30,,35.2,Yes,35.5,32.7,37
 10562,Sprite (Bottle) - Soft Drink,2 lt,PET,90,,52.3,Yes,52.8,48.6,55
@@ -59,7 +59,7 @@ PID,Drink Name and Description,Quantity,Packaging Type,MRP,Offer Price(BigBasket
 101304,Coca-Cola Rim Zim (Bottle) - Soft Drink,400 ml,PET,25,,52.3,Yes,52.8,48.6,55
 114243,Coca-Cola Zero (Bottle) - Soft Drink,400 ml,PET,20,,35.2,Yes,35.5,32.7,37
 18318,Fanta (Bottle) - Soft Drink,1.25 lt,PET,60,,28.5,Yes,28.8,26.5,30
-122997,Kinley (Bottle) - Soda,750 ml,PET,18,,35.2,Yes,35.5,32.7,37
+122997,Kinley (Bottle) - Soda,750 ml,Soda,18,,35.2,Yes,35.5,32.7,37
 82169,Limca (Bottle) - Soft Drink,2.25 lt,PET,84,,33.3,Yes,33.6,30.9,35
 10516,Kinley - Mineral Water,500 ml,PET,10,,33.3,Yes,33.6,30.9,35
 57194,Minute Maid - Mixed Fruit - Fruit Drink (Bottle),250 ml,PET,20,,47.5,Yes,48,44.2,50
