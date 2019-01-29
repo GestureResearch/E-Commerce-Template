@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/bigbasket.unity
-    guid: f7c81164a716ac8439626be751c0d15e
+    path: Assets/Scenes/supermart.unity
+    guid: bd7f4db20fa8e494bbff066fcd05d521
