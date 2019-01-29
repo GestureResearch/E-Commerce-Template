@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/supermart.unity
-    guid: bd7f4db20fa8e494bbff066fcd05d521
+    path: Assets/Scenes/supermart1.unity
+    guid: a0a61704019127441baefb52224322ff

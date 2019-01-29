@@ -92,7 +92,7 @@ public class ManagerScriptSupermart : MonoBehaviour
                     content.transform.GetChild(4).GetComponent<Text>().text = data[i, 4];
 
                     // Set Discount
-                    content.transform.GetChild(5).GetComponent<Text>().text += ((int)(float.Parse(data[i, 4]) - float.Parse(data[i, 9]))).ToString() + " off";
+                    content.transform.GetChild(5).GetComponent<Text>().text += ((int)Mathf.Abs(float.Parse(data[i, 4]) - float.Parse(data[i, 8]))).ToString() + " off";
 
                     // Set Rate
                     content.transform.GetChild(6).GetComponent<Text>().text += Random.Range(50, 65).ToString() + "/L";
